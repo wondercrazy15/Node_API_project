@@ -58,9 +58,9 @@ use to install Node_API_project.
 - and after install dependency and run.
 
 ```bash
-cd e-commerce-shop
-npm install
-npm start
+⦁	npm install
+⦁	npm run dev
+
 ```
 
 
